@@ -1,4 +1,7 @@
 # Vector Graphic Library
+English | [中文](README-zh.md)
+<br>
+
 This repository is used to store vector graphics. <br>
 Various vector graphics will be uploaded here from time to time. <br>
 All resources followed [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License in this repository. <br>
@@ -10,7 +13,7 @@ All resources followed [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa
 
 <hr>
 
-### The following is the font preview :
+### The following are graphics preview :
 
 ## Warning Signs
 <br>
