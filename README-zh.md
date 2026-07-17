@@ -1,4 +1,7 @@
 # 矢量图形库
+[English](README.md) | 中文
+<br>
+
 这个仓库用于存放矢量图形素材。 <br>
 在这个仓库里，各种各样的矢量图形会不时上传到这里。 <br>
 仓库里的所有资源都将遵循 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可证。 <br>
